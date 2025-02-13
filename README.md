@@ -27,4 +27,5 @@
 
 # Longitudinal data
 | Name | Link | Description |
+| :----|:-----|:-------|
 |ShaLab Stanford | https://redivis.com/ShahLab/datasets | The Shah Lab at Stanford University specializes in analyzing diverse health data types, including EHRs, claims, wearables, and online patient interactions, to improve healthcare systems through data-driven insights. Their research focuses on applying aggregate patient data to clinical questions, predicting healthcare needs, and developing novel data analysis methods. |
