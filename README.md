@@ -2,7 +2,7 @@
 
 # Medical Imaging
 
-## Lists of resources
+## General Radiology Resources
 | Name | Link | Description |
 | :----|:-----|:-------|
 | Radiopaedia | https://radiopaedia.org/articles/imaging-data-sets-artificial-intelligence | List of datasets from Radiopaedia |
@@ -23,3 +23,8 @@
 | CANDID-PTX | https://figshare.com/articles/dataset/CANDID-PTX/14173982 | Yes | Yes | Yes | 19,237 anonymized adult chest x-ray datasets in 1024 x 1024 pixel DICOM format with corresponding anonymized free-text reports from Dunedin Hospital, New Zealand between 2010 - 2020. Images were manually annotated by RANZCR radiology trainee and radiologists with respect to pneumothorax, acute rib fracture, and chest tubes. Segmentation annotations were converted to run-length-coded (RLE) format in csv files. In the provided metadata, image filenames contain patient index (enabling analysis requiring patient grouping of images), as well as anonymized date of acquisition information where the temporal relationship between images is preserved. |
 | CheXpert Plus | https://aimi.stanford.edu/datasets/chexpert-plus | Yes | Yes | Yes | The CheXpert Plus dataset is a comprehensive collection that brings together text and images in the medical field, featuring a total of 223,462 unique pairs of radiology reports and chest X-rays across 187,711 studies from 64,725 patients. |
 | CheXpert | https://aimi.stanford.edu/datasets/chexpert-chest-x-rays | Yes | Yes | Yes | CheXpert is a dataset consisting of 224,316 chest radiographs of 65,240 patients who underwent a radiographic examination at Stanford Health Care between October 2002 and July 2017,  in both inpatient and outpatient centers.  Included are their associated radiology reports. |
+
+
+# Longitudinal data
+| Name | Link | Description |
+|ShaLab Stanford | https://redivis.com/ShahLab/datasets | The Shah Lab at Stanford University specializes in analyzing diverse health data types, including EHRs, claims, wearables, and online patient interactions, to improve healthcare systems through data-driven insights. Their research focuses on applying aggregate patient data to clinical questions, predicting healthcare needs, and developing novel data analysis methods. |
